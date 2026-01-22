@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">RecyclerViewSimpsons</string>
+    <string name="app_name">RV-Simpsons</string>
+
+    <string name="bart_desc">Bart","Bartholomew JoJo «Bart» Simpson, es uno de los protagonistas de la serie. Bart tiene 10 años y es el primogénito, y único hijo varón de Homer y Marge Simpson. </string>
+    <string name="krusty_desc">Herschel Shmoikel Pinkus Yerocham Krustofsky, conocido como Krusty el payaso, es un personaje de la serie de dibujos animados Los Simpson.</string>
+    <string name="homero_desc">Homer Jay Simpson es uno de los protagonistas de la serie. Es el padre de la familia protagonista y uno de los personajes centrales y más importantes de la serie.</string>
+    <string name="marge_desc">Marjorie \"Marge\" Bouvier Simpson una de los protagonistas de la serie. Es la esposa de Homer Simpson y madre de los tres hijos que ha tenido de esta unión amorosa: Bart, Lisa y Maggie. </string>
+    <string name="lisa_desc">Lisa Marie Simpson es una de las protagonistas de la serie. Es la hija mediana de Homer y Marge Simpson, y hermana de Bart y Maggie. Goza de notable protagonismo y complejidad en la serie.</string>
+    <string name="maggie_desc">Magie","Margaret Evelyn \"Maggie\" Simpson es una de las protagonistas de la serie. Es la tercera hija del matrimonio protagonista, Homer y Marge Simpson, y la más joven de ellos.</string>
+    <string name="ned_desc">Nedward «Ned» Flanders es un personaje ficticio de la serie de televisión de dibujos animados Los Simpson. La voz original en inglés es de Harry Shearer.</string>
+    <string name="milhouse_desc">Milhouse","Milhouse Mussolini Van Houten es un personaje ficticio de la serie animada Los Simpson, creado por Matt Groening.</string>
+    <string name="burns_desc">Mr. Burns","Charles Montgomery Burns, más conocido como el señor Burns o Monty Burns, es un personaje ficticio recurrente de la serie de televisión de dibujos animados Los Simpson, creada por Matt Groening.</string>
+
+
+    <string name="bart">Bartolome J. Simpson</string>
+    <string name="krusty">Herschel Krustofsky</string>
+    <string name="homero">Homero Simpson</string>
+    <string name="marge">Marge Simpson</string>
+    <string name="lisa">Lisa Simpson</string>
+    <string name="maggie">Maggie</string>
+    <string name="ned">Nedward Flanders</string>
+    <string name="milhouse">Milhouse Van Houten</string>
+    <string name="burns">Montgomery Burns</string>
 </resources>
